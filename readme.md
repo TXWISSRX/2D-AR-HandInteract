@@ -60,7 +60,7 @@ This application is built around YOLOv11's real-time instance segmentation. When
 
 - **Pointing**: Index finger extended to highlight or hover over an object.
 - **Pinch (Thumb + Index)**: Used to grab and move a highlighted object.
-- You don’t need to touch the object directly—just aim and pinch in the air!
+- You don’t need to touch the object directly just aim and pinch in the air!
 
 ---
 
