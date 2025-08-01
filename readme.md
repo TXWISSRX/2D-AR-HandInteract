@@ -46,7 +46,7 @@ This application is built around YOLOv11's real-time instance segmentation. When
 ---
 
 
-### 📄 File Descriptions
+### File Descriptions
 
 - **`webcam_view.py`**: Basic script to preview webcam feed.
 - **`edit_mode.py`**: Interactive editor to draw, resize, and delete shapes manually.
@@ -56,7 +56,7 @@ This application is built around YOLOv11's real-time instance segmentation. When
 
 
 
-## 🤏 Hand Gestures Used
+## Hand Gestures Used
 
 - **Pointing**: Index finger extended to highlight or hover over an object.
 - **Pinch (Thumb + Index)**: Used to grab and move a highlighted object.
